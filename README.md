@@ -14,7 +14,7 @@ Real-time AI-powered forex trading signals with **High Accuracy** using advanced
 
 ## 🔍 Overview
 
-- **Signal Type:** Buy/Sell alerts for major currency pairs    
+- **Signal Type:** 1 Min Buy/Sell alerts for major currency pairs    
 - **Frequency:** Signals generated **in real time**  
 - **Analysis:** Combines machine learning with RSI, MACD, Bollinger Bands, and trend analysis
 
